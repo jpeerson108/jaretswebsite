@@ -198,7 +198,7 @@ document.addEventListener("DOMContentLoaded", function () {
   updateScales();
   updateCarouselInfo(index % originalCount); // Initial load
 
-  // ✅ Fix: Keep carousel centered on window resize
+  // ✅ Fix: Keep carousel centered on window resize 
   window.addEventListener("resize", () => {
     currentX = getOffset(index);
     gsap.set(track, { x: currentX });
