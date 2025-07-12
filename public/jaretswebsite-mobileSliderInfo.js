@@ -1,5 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.7/dist/gsap.min.js"></script>
-
 <script>
   Webflow.push(function () {
     const heading = document.querySelector('.mobile-slider-info-heading');

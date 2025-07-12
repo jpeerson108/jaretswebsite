@@ -1,5 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.7/dist/gsap.min.js"></script>
-
 <script>
   class TextScramble {
     constructor(el) {

@@ -1,5 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.7/dist/gsap.min.js"></script>
-
 <script>
 document.querySelectorAll('.nav-btn').forEach((btn) => {
   const fill = btn.querySelector('.btn-fill');
